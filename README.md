@@ -1,2 +1,2 @@
 # localhost-with-referrer-test
-[go to localhost](https://localhost:3000/region/picker)
+[go to localhost](http://localhost:3000/region/picker)
